@@ -1,0 +1,4 @@
+$ git branch -v
+  bug-fix-revert 507b811 Revert "Fix typo in README"
+  bug-fix-typo   507b811 Fix typo in README
+* main           507b811 Fix typo in README
